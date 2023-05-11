@@ -1,0 +1,3 @@
+[submodule "git-history-change-test"]
+	path = git-history-change-test
+	url = git@github.com:joshuasrcho/git-history-change-test.git
